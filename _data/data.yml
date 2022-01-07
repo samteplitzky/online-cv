@@ -32,8 +32,8 @@ sidebar:
       - idiom: French
         level: Professional
 
-      - idiom: Spanish
-        level: Professional
+      # - idiom: Spanish
+        # level: Professional
 
     interests:
       - item: Climbing
@@ -42,8 +42,8 @@ sidebar:
       - item: Snowboarding
         link:
 
-      - item: Cooking
-        link:
+     # - item: Cooking
+      #  link:
 
 career-profile:
     title: Career Profile
