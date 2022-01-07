@@ -84,17 +84,13 @@ education:
 
 experiences:
     - role: Open Science Librarian
-      time: 2019 - present
+      time: 2019 - Present
       company: UC Berkeley
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+        Promote open science tools and principles; provide related outreach to researchers and students.
           - Bullet point
           - Bullet point
-    - role: Earth & Physical Sciences Librarian
+    - role: Earth and Physical Sciences Librarian
       time: 2014 - 2018
       company: UC Berkeley
       details: |
