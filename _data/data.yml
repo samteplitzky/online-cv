@@ -122,20 +122,10 @@ projects:
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
       - title: Geoscience Open Educational Resources (OER) Study (2020 - 2021)
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
-        summary: This study examines the creation and adoption of OER in the 
+        link: "https://doi.org/10.31223/X5J90G""
+        tagline: "This study examines the creation and adoption of OER in the 
         Geosciences with a goal of providing guidance for institutions, libraries 
-        and librarians who support and fund OER initiatives. An environmental scan, 
-        employed to identify and characterize available college-level OER in this 
-        discipline, provided a baseline for the study. Analysis of the scan along 
-        with a review of OER, textbook and field guide standards informs a new set 
-        of proposed guidelines for Geoscience OER, and offers a call for community 
-        feedback.
-        details: |
-        Manuscript (in EarthArXiV) - https://doi.org/10.31223/X5J90G
-        Guidelines Table - https://zenodo.org/record/5542306
-        Environmental Scan/Data - https://zenodo.org/record/5542323
+        and librarians who support and fund OER initiatives."
 
       - title: Earth Science Citation Replication Project (2019 - 2020)
         link: "#"
