@@ -25,7 +25,8 @@ sidebar:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: http://www.africau.edu/images/default/sample.pdf
+    full cv: https://github.com/samteplitzky/cv
+    pdf: https://github.com/samteplitzky/cv/blob/gh-pages/Teplitzky_CV_brief.pdf
 
     languages:
       - idiom: English
