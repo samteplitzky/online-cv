@@ -55,9 +55,9 @@ career-profile:
       Donec quam felis, ultricies nec, pellentesque eu.
       Second paragraph if required.
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: Master of Library and Information Science
+      university: San Jose State University
+      time: 2002 - 2003
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -66,9 +66,9 @@ education:
         pretium quis, sem.
           - Bullet point
           - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+    - degree: MA in Geography
+      university: UC Berkeley
+      time: 2000 - 2002
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -77,25 +77,24 @@ education:
         pretium quis, sem.
           - Bullet point
           - Bullet point
+    - degree: BA in Art History and Geology
+      university: Williams College
+      time: 1994 - 1998
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Open Science Librarian
+      time: 2019 - present
+      company: UC Berkeley
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
         Cum sociis natoque penatibus et magnis dis parturient montes,
         nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
+        pellentesque eu, pretium quis, sem.
           - Bullet point
           - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+    - role: Earth & Physical Sciences Librarian
+      time: 2014 - 2018
+      company: UC Berkeley
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -122,25 +121,29 @@ projects:
       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
-      - title: Velocity
+      - title: Geoscience Open Educational Resources (OER) Study (2020 - 2021)
         link: "#hook"
         tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        summary: This study examines the creation and adoption of OER in the 
+        Geosciences with a goal of providing guidance for institutions, libraries 
+        and librarians who support and fund OER initiatives. An environmental scan, 
+        employed to identify and characterize available college-level OER in this 
+        discipline, provided a baseline for the study. Analysis of the scan along 
+        with a review of OER, textbook and field guide standards informs a new set 
+        of proposed guidelines for Geoscience OER, and offers a call for community 
+        feedback.
+        details: |
+        Manuscript (in EarthArXiV) - https://doi.org/10.31223/X5J90G
+        Guidelines Table - https://zenodo.org/record/5542306
+        Environmental Scan/Data - https://zenodo.org/record/5542323
 
-      - title: DevStudio
+      - title: Earth Science Citation Replication Project (2019 - 2020)
         link: "#"
         tagline: "A responsive website template designed to help web developers/designers market their services."
 
       - title: Tempo
         link: "#"
         tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 publications:
     title: Publications
