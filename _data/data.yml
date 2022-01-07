@@ -13,8 +13,10 @@ sidebar:
 
     # Sidebar links
     email: samteplitzky@gmail.com
+    phone: 
     website: samteplitzky.github.io/online-cv/ #do not add http://
     linkedin: samteplitzky
+    xing:
     github: samteplitzky
     telegram: # add your nickname without '@' sign
     gitlab:
@@ -77,11 +79,10 @@ education:
         pretium quis, sem.
           - Bullet point
           - Bullet point
- #   - degree: BA in Art History and Geology
-  #    university: Williams College
-   #   time: 1994 - 1998
-    #  details: |
-
+    - degree: BA in Art History and Geology
+      university: Williams College
+      time: 1994 - 1998
+      details: |
 experiences:
     - role: Open Science Librarian
       time: 2019 - Present
