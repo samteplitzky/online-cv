@@ -80,6 +80,14 @@ education:
     - degree: BA in Art History and Geology
       university: Williams College
       time: 1994 - 1998
+      details: |
+        Describe your study here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+        sociis natoque penatibus et magnis dis parturient montes, nascetur
+        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+        pretium quis, sem.
+          - Bullet point
+          - Bullet point
 experiences:
     - role: Open Science Librarian
       time: 2019 - present
