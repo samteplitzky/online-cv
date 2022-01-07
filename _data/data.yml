@@ -14,7 +14,7 @@ sidebar:
     # Sidebar links
     email: samteplitzky@gmail.com
     phone: 
-    website: samteplitzky.github.io/online-cv/ #do not add http://
+    website: samteplitzky.github.io/cv/ #do not add http://
     linkedin: samteplitzky
     xing:
     github: samteplitzky
@@ -25,7 +25,6 @@ sidebar:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    full cv: https://github.com/samteplitzky/cv
     pdf: https://github.com/samteplitzky/cv/blob/gh-pages/Teplitzky_CV_brief.pdf
 
     languages:
