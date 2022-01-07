@@ -50,12 +50,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Science Librarian turned Open Science Advocate.
 education:
     - degree: MLIS
       university: San Jose State University
@@ -105,14 +100,8 @@ experiences:
       company: Stanford University
       details: |
         Subject Librarian in the Branner Earth Sciences Library and Map Collections.
-          #- Bullet point
-          #- Bullet point
 projects:
     title: Projects
-    intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
       - title: Seismica Journal Open Science Executive Editor
         link: "http://www.seismica.org"
@@ -132,16 +121,22 @@ projects:
 
 publications:
     title: Selected Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
     papers:
+      - title: "Open Science and Data Management: Introducing Graduate Students to Research Workflows in a Local Context"
+        link: https://escholarship.org/uc/item/7kj084vz
+        authors: Teplitzky, S., Newcome, E., Powell, S., & Sackmann, A.
+        conference: "in B. Buljung & E. Bongiovanni (Eds.), Scholarly Communications Cookbook (p 303-306), (2021). Association of College & Research Libraries."
+        
       - title: "Introducing Reproducibility to Citation Analysis: a Case Study in the Earth Sciences"
         link: "http://doi.org/10.7191/jeslib.2021.1194"
         authors: Teplitzky, S., Tranfield, W., Warren, M., White, P.
         conference: "Journal of eScience Librarianship, (2021)"
 
+      - title: "Is authorship sufficient for today’s collaborative research? A call for contributor roles."
+        link: "https://doi.org/10.1080/08989621.2020.1779591"
+        authors: Vasilevsky, N. A., Hosseini, M., Teplitzky, S., Ilik, V., Mohammadi, E., Schneider, J., … & Holmes, K. L.
+        conference: Accountability in Research, (2021), 28(1), 23-43.
+        
       - title: "Open data, (open) access: linking data sharing and article sharing in the Earth Sciences"
         link: "http://doi.org/10.7710/2162-3309.2150"
         authors: Teplitzky, S.
@@ -152,12 +147,15 @@ publications:
         authors: Teplitzky, S. and Phillips, M.
         conference: "College & Research Libraries, (2016)"
 
+awards:
+    title: Grants &amp; Awards
+    - "Geoscience Information Society Best Paper Award 2018 for: Teplitzky, S. (2017). Open data, [open] access: linking data sharing and article sharing in the Earth Sciences. Journal of Librarianship and Scholarly Communication, 5(1). http://doi.org/10.7710/2162-3309.2150"
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
       - name: Python
-        level: 98%
+        level: 75%
 
       - name: Javascript & jQuery
         level: 98%
