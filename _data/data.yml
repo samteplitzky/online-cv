@@ -38,10 +38,10 @@ sidebar:
         # level: Professional
 
     interests:
-      - item: Climbing
+      - item: Running
         link:
 
-      - item: Snowboarding
+      - item: Paddleboarding
         link:
 
      # - item: Cooking
@@ -105,8 +105,8 @@ experiences:
       company: Stanford University
       details: |
         Subject Librarian in the Branner Earth Sciences Library and Map Collections.
-          - Bullet point
-          - Bullet point
+          #- Bullet point
+          #- Bullet point
 projects:
     title: Projects
     intro: >
@@ -115,7 +115,7 @@ projects:
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
       - title: Seismica Journal Open Science Executive Editor
-        link: "http://www.seismica.org/"
+        link: "http://www.seismica.org"
         tagline: "Founding Editor for the Seismica Open Access Journal."
         
       - title: Geoscience Open Educational Resources (OER) Study (2020 - 2021)
@@ -123,7 +123,7 @@ projects:
         tagline: "An examination of the creation and adoption of OER in the Geosciences."
 
       - title: Earth Science Citation Replication Project (2019 - 2020)
-        link: "#"
+        link: "https://github.com/samteplitzky/Earth-Science-Citation-Replication-Project"
         tagline: "A responsive website template designed to help web developers/designers market their services."
 
       - title: Project Researcher, Agricultural Archives Project, LSCE, Gif-Sur-Yvette, France (9/2009 - 3/2010)
@@ -137,12 +137,12 @@ publications:
       amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
       bibendum fringilla a eu lectus.
     papers:
-      - title: Introducing Reproducibility to Citation Analysis: a Case Study in the Earth Sciences. 
+      - title: Introducing Reproducibility to Citation Analysis: a Case Study in the Earth Sciences
         link: "http://doi.org/10.7191/jeslib.2021.1194"
         authors: Teplitzky, S., Tranfield, W., Warren, M., White, P.
-        conference: Journal of eScience Librarianship, 2021
+        conference: "Journal of eScience Librarianship, (2021)"
 
-      - title: Open data, [open] access: linking data sharing and article sharing in the Earth Sciences.
+      - title: Open data, (open) access: linking data sharing and article sharing in the Earth Sciences
         link: "http://doi.org/10.7710/2162-3309.2150"
         authors: Teplitzky, S.
         conference: "Journal of Librarianship and Scholarly Communication, (2017) "
@@ -150,7 +150,7 @@ publications:
       - title: Evaluating the Impact of Open Access at Berkeley: Results from the 2015 Survey of Berkeley Research Impact Initiative (BRII) Funding Recipients
         link: "https://doi.org/10.5860/crl.77.5.568"
         authors: Teplitzky, S. and Phillips, M.
-        conference: "College & Research Libraries, (2016), 77(5), 568-581"
+        conference: "College & Research Libraries, (2016)"
 
 skills:
     title: Skills &amp; Proficiency
