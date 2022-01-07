@@ -121,7 +121,7 @@ projects:
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
       - title: Geoscience Open Educational Resources (OER) Study (2020 - 2021)
-        link: "doi.org/10.31223/X5J90G""
+        link: "https://doi.org/10.31223/X5J90G"
         tagline: "An examination of the creation and adoption of OER in the Geosciences."
 
       - title: Earth Science Citation Replication Project (2019 - 2020)
