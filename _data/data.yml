@@ -88,9 +88,10 @@ experiences:
       time: 2019 - Present
       company: UC Berkeley
       details: |
-        Promote open science tools and principles; provide related outreach to researchers and students.
-          - Bullet point
-          - Bullet point
+        Promote open science tools and principles to researchers and students.
+          - Launched open science communities: ReproducibiliTea Journal Club at Berkeley & Bay Area Open Science Group
+          - Open access investments working group member (Spring 2020): Established criteria, best practices, and processes to advance open access investment decision-making to guide Library scholarly resources investments in sustainable open access publishing.
+          - Created VOLT, Virtual Online Library Tutorials, to promote open research workflows available to students during COVID-19 closures.
     - role: Earth and Physical Sciences Librarian
       time: 2014 - 2018
       company: UC Berkeley
@@ -103,11 +104,7 @@ experiences:
       time: 2005 - 2008
       company: Stanford University
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+        Subject Librarian in the Branner Earth Sciences Library and Map Collections.
           - Bullet point
           - Bullet point
 projects:
@@ -117,6 +114,10 @@ projects:
       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
+      - title: Seismica Journal Open Science Executive Editor
+        link: "http://www.seismica.org/"
+        tagline: "Founding Editor for the Seismica Open Access Journal."
+        
       - title: Geoscience Open Educational Resources (OER) Study (2020 - 2021)
         link: "https://doi.org/10.31223/X5J90G"
         tagline: "An examination of the creation and adoption of OER in the Geosciences."
@@ -125,37 +126,37 @@ projects:
         link: "#"
         tagline: "A responsive website template designed to help web developers/designers market their services."
 
-      - title: Tempo
+      - title: Project Researcher, Agricultural Archives Project, LSCE, Gif-Sur-Yvette, France (9/2009 - 3/2010)
         link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+        tagline: "Identified historical agricultural records in France at Bibliotheque Nationale de France (BNF) and other agencies. Created a database of fertilizer use for corn, wheat and other crops for the 20th century."
 
 publications:
-    title: Publications
+    title: Selected Publications
     intro: |
       You can list your publications in this section. Lorem ipsum dolor sit
       amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
       bibendum fringilla a eu lectus.
     papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+      - title: Introducing Reproducibility to Citation Analysis: a Case Study in the Earth Sciences. 
+        link: "http://doi.org/10.7191/jeslib.2021.1194"
+        authors: Teplitzky, S., Tranfield, W., Warren, M., White, P.
+        conference: Journal of eScience Librarianship, 2021
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+      - title: Open data, [open] access: linking data sharing and article sharing in the Earth Sciences.
+        link: "http://doi.org/10.7710/2162-3309.2150"
+        authors: Teplitzky, S.
+        conference: "Journal of Librarianship and Scholarly Communication, (2017) "
 
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      - title: Evaluating the Impact of Open Access at Berkeley: Results from the 2015 Survey of Berkeley Research Impact Initiative (BRII) Funding Recipients
+        link: "https://doi.org/10.5860/crl.77.5.568"
+        authors: Teplitzky, S. and Phillips, M.
+        conference: "College & Research Libraries, (2016), 77(5), 568-581"
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: Python
         level: 98%
 
       - name: Javascript & jQuery
